@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Serial';
     src: url('./fonts/SerialB-Regular.woff2') format('woff2'),
-    src: url('./fonts/SerialB-Regular.woff') format('woff');
+         url('./fonts/SerialB-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
